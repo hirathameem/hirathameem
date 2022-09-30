@@ -14,15 +14,16 @@ Experience so far:
 4. Fastlane
 5. Terraform
 
-Certificatins gained in 2022 alone:
+Certifications gained in 2022 alone:
 1. Google Cloud Digital Leader
 2. Microsoft Azure AZ900
 3. AWS Certified Cloud Practitioner
 
 - ⚡ Fun fact: 
 I am very sarcastic.
+I am also hardworking
 
-##Connect with me
+## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathira-salim-1969a235/)
 
