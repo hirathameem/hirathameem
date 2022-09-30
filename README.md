@@ -5,6 +5,8 @@ I have had almost 5 years of experience in QA (manual testing) and have decided 
 
 Currently working on CI/CD for current org.
 
+🌱 I’m currently learning AZ104.
+
 Experience so far:
 1. Flutter
 2. Git % Github
@@ -17,8 +19,12 @@ Certificatins gained in 2022 alone:
 2. Microsoft Azure AZ900
 3. AWS Certified Cloud Practitioner
 
+- ⚡ Fun fact: 
+I am very sarcastic.
+
 ##Connect with me
 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathira-salim-1969a235/)
 
 
 
