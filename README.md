@@ -9,7 +9,7 @@ Currently working on CI/CD for current org.
 
 Experience so far:
 1. Flutter
-2. Git % Github
+2. Git and  Github
 3. Gitlab
 4. Fastlane
 5. Terraform
@@ -20,9 +20,9 @@ Certifications gained in 2022 alone:
 3. AWS Certified Cloud Practitioner
 
 - ⚡ Fun fact: 
-I am sometimes fun to be with
-I work very hard to solve issues
-I take my work very seriously..sometimes a tad too much.
+1. I am sometimes fun to be with
+2. I work very hard to solve issues
+3. I take my work very seriously..sometimes a tad too much.
 
 
 ## Connect with me
