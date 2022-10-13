@@ -5,7 +5,7 @@ I have had almost 5 years of experience in QA (manual testing) and have decided 
 
 Currently working on CI/CD for current org.
 
-🌱 I’m currently learning AZ104.
+🌱 I’m currently learning how to build a CI/CD pipeline.
 
 Experience so far:
 1. Flutter
@@ -20,8 +20,10 @@ Certifications gained in 2022 alone:
 3. AWS Certified Cloud Practitioner
 
 - ⚡ Fun fact: 
-I am very sarcastic.
-I am also hardworking
+I am sometimes fun to be with
+I work very hard to solve issues
+I take my work very seriously..sometimes a tad too much.
+
 
 ## Connect with me
 
